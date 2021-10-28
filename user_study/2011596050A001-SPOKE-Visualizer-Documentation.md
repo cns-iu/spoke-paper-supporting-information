@@ -1,6 +1,8 @@
-SPOKE Visualizer Video Tutorial
+# SPOKE Visualizer Video Tutorial
 Author: Andreas Bueckle
 Date: 10/12/21
+
+![Header](images/header.jpg)
 
 [Video tutorial](https://iu.mediaspace.kaltura.com/media/t/1_beocenb3)
 
