@@ -79,5 +79,5 @@ Let’s click Show Details to get back to the map, and then we see new markers f
 
 ![Detail view with Pyridoxine and epilepsy](images/details_again.jpg)
 
-In this tutorial, we discussed how to select a food and a disease, read the overview visualization, and then navigate the details visualization. Please take some time to explore the SPOKE Visualizer on your own before continuing with the study. Maybe try a few more combinations of food and disease, maybe with your favorite food? 
+In this tutorial, we discussed how to select a food and a disease, read the overview visualization, and then navigate the details visualization. Please take some time to explore the SPOKE Visualizer on your own before continuing with the study. Maybe try a few more combinations of **food** and **disease**, maybe with your favorite food? 
 
