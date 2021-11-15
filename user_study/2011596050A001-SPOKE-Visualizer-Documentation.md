@@ -75,6 +75,8 @@ According to the overview, the connecting compound is Pyridoxine.
 
 Let’s click Show Details to get back to the map, and then we see new markers for epilespy in purple and Pyridoxine in yellow. 
 
+**NOTE:** When you are in the Show Details view, and you would like to choose a new food and/or disease, you will first have to click the Search button, then go backt to the Overview, then back to the Show Details view in order to see an updated map with markers for food and disease.
+
 ![Show Details button again](images/show_details_again.jpg)
 
 ![Detail view with Pyridoxine and epilepsy](images/details_again.jpg)
