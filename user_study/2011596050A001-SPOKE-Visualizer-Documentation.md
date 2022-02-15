@@ -2,7 +2,7 @@
 
 **Author: Andreas Bueckle**
 
-**Date: 10/12/21 (updated: 10/28/21)**
+**Date: 10/12/21 (updated: 2/15/22)**
 
 ---
 
@@ -11,7 +11,9 @@
 **Note that this tutorial is also available as a video:** 
 [Video tutorial](https://iu.mediaspace.kaltura.com/media/t/1_beocenb3)
 
-Welcome to the SPOKE Visualizer! In this tutorial, we are going to explain what the SPOKE Visualizer is and how to use it. Feel free to follow along as we explore how to visualize certain subsets of the underlying SPOKE data to uncover relationship between food and diseases. Specifically, the SPOKE Visualizer shows connections between foods and diseases via compounds in that food. Let’s have a look at this ourselves.  
+Welcome to the SPOKE Visualizer! In this tutorial, we are going to explain what the SPOKE Visualizer is and how to use it. Feel free to follow along as we explore how to visualize certain subsets of the underlying SPOKE data to uncover relationship between food and diseases. Specifically, the SPOKE Visualizer shows connections between foods and diseases via compounds in that food. This means that the SPOKE Visualizer looks at foods that can support health as well as foods that are detrimental to health. 
+
+In this documentation, we will learn how to explore the connections between foods and diseases using the SPOKE Visualizer as well as how to retrieve information from it. Let’s have a look at this ourselves.  
 
 When you enter the [website](https://cns-iu.github.io/spoke-vis/home), you are greeted by a landing page with some information about the size and goal of SPOKE. Click the blue button labeled **Spoke Visualizer** at the bottom to get to the visualization proper. 
 
