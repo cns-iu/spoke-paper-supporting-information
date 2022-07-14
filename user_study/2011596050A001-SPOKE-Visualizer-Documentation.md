@@ -15,7 +15,7 @@ Welcome to the SPOKE Visualizer! In this tutorial, we are going to explain what 
 
 In this documentation, we will learn how to explore the connections between foods and diseases using the SPOKE Visualizer as well as how to retrieve information from it. Let’s have a look at this ourselves.  
 
-When you enter the [website](https://cns-iu.github.io/spoke-vis/home), you are greeted by a landing page with some information about the size and goal of SPOKE. Click the blue button labeled **Spoke Visualizer** at the bottom to get to the visualization proper. 
+When you enter the website(see link in your survey), you are greeted by a landing page with some information about the size and goal of SPOKE. Click the blue button labeled **Spoke Visualizer** at the bottom to get to the visualization proper. 
 
 ![SPOKE Visualizer landing page](images/landing_page.jpg)
 
