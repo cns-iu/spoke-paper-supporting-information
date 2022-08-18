@@ -55,7 +55,7 @@ Use your mouse scroll wheel to zoom into the map. Let’s go to the yellow marke
 
 ![Many connections from foods to Folic Acid](images/connections.jpg)
 
-Press and hold the left mouse button to pan along the map. You can then see all the different foods that contain *folic acid* (blue arrow), like *acorn* and *buttermilk*. Panning over to  *folic acid* shows us just how many foods in the SPOKE graph contain *folic acid*. Among the many foods, we still asee *almonds* (yellow arrow). You can also press and hold the right mouse button to change the angle of your view to assume a more ground-level perspective.
+Press and hold the left mouse button to pan along the map. You can then see all the different foods that contain *folic acid* (blue arrow), like *acorn* and *buttermilk*. Panning over to  *folic acid* shows us just how many foods in the SPOKE graph contain *folic acid*. Among the many foods, we still see *almonds* (yellow arrow). You can also press and hold the right mouse button to change the angle of your view to assume a more ground-level perspective.
 
 ![Zoomed in on almonds](images/zoomed_in.jpg)
 
